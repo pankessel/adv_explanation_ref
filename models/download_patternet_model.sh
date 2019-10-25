@@ -1,0 +1,1 @@
+echo "Please use the link: https://drive.google.com/open?id=1RdvAiUZgfhSE8sVF2JOyURpnk1HQ_hZk to download manually"
